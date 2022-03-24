@@ -1,0 +1,111 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+
+
+header{
+    background-color: rgb(88, 88, 88);
+    width: 100%;
+    padding: 20px 0;
+}
+header div{
+    display: inline-block;
+
+}
+.logo{
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 150px;
+    padding: 15px;
+    margin: 35px 60px;
+}
+
+.menu{
+    margin-left: 100px;
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    
+}
+
+.menu ul li{
+    display: inline;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.cabecalho span{
+    padding: 15px 10px;
+    font-size: 25px;
+}
+.banner{
+    background-color: rgb(136, 134, 134);
+    text-align: center;
+}
+.banner img{
+    width: 100%;
+
+}
+
+.curiosidades{
+    background-color: rgb(100, 100, 100);
+    padding: 25px;
+    text-align: center;
+}
+.titulo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.curiosidades ul li{
+    display: inline-block;
+    border-radius: 15px;
+    width: 160px;
+    height: 220px;
+    border: 2px solid black;
+    margin: 25px;
+    justify-content: space-between;
+}
+
+
+.video{
+    background-color: rgba(68, 67, 67, 0.527);
+    padding: 30px;
+    text-align: center;
+}
+
+.video iframe{
+    margin: 25px ;
+    width: 516px;
+    height: 326px;
+    border-radius: 20px;
+    
+}
+
+footer{
+    background-color: rgba(117, 117, 117, 0.863);
+    text-align: center;
+    padding: 25px;
+}
+.icone{
+    display: inline-block;
+    border-radius: 100px;
+    padding: 20px;
+}
+
+.icone > a > img {
+    width: 55px;
+    height: 55px;
+}
+
+footer p{
+    font-size: 13px;
+    font-style: italic;
+    font-family: 'Ramaraja',serif;
+}
