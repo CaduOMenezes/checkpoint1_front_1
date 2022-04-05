@@ -97,10 +97,9 @@ header{
     border-radius: 15px;
     width: 210px;
     height: 300px;
-    border: 1px solid black;
     transition: 0.3s;
     display: flex;
-    
+    background-color: #FAFAFA;
     flex-direction: column;
     gap: 7px;
     align-items: center;
