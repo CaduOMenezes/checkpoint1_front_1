@@ -78,8 +78,9 @@ header{
 }
 .titulo {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
     padding: 30px 0;
+    color: beige;
 }
 .itens{
     display: flex;
