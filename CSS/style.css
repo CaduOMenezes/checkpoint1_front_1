@@ -77,7 +77,7 @@ header{
     flex-direction: column;
 }
 .titulo {
-    font-weight: bold;
+    font-weight: 590;
     font-size: 25px;
     padding: 30px 0;
     color: beige;
