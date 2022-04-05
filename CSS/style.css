@@ -99,7 +99,7 @@ header{
     height: 300px;
     transition: 0.3s;
     display: flex;
-    background-color: #FAFAFA;
+    background-image: linear-gradient(#80d9f6, #46c6dd);
     flex-direction: column;
     gap: 7px;
     align-items: center;
@@ -115,9 +115,9 @@ header{
 }
 
 .item h3{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 700;
-    font-family: 'Ramaraja',sans-serif;
+    font-family: 'Georgia', sans-serif;
 }
 
 .item p{
